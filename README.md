@@ -1,2 +1,0 @@
-# cthulhu
-New website
