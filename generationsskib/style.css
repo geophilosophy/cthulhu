@@ -1,8 +1,8 @@
 body {
   text-align: center;
   font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Arial, sans-serif;
-	font-size: 1.5em;
-	line-height: 160%;
+	font-size: 1.6em;
+	line-height: 140%;
 	color:#000;
 }
 
@@ -18,7 +18,10 @@ a:hover {
 }
 
 h1 {
-	font-size: 1em;
+	font-size: 1.6em;
+	color: aqua;
+  background-color: #000;
+	line-height: 115%;
 }
 
 h2 {
@@ -29,8 +32,4 @@ h2 {
   margin: 5% auto;
   max-width: 720px;
   text-align: left;
-}
-
-summary {
-  font-weight: bold;
 }
