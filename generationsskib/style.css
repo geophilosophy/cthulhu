@@ -28,6 +28,12 @@ h2 {
 	font-size: 1em;
 }
 
+hr {   
+  color: #000;
+  border-width: 6px;
+  border-style: dashed;
+}
+
 #content {
   margin: 5% auto;
   max-width: 720px;
