@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chulu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://henrikchu.lu
+  * I am chulu (https://keybase.io/chulu) on keybase.
+  * I have a public key ASCGjtNUEJROVDGxG3VozS9idaagHnlNjYOkSIru2SO4cAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c66e186f5172390e6b1c3036d3ccd928aa28510010d0b9a68a700903f89914fc0a",
+      "host": "keybase.io",
+      "kid": "0120868ed35410944e5431b11b7568cd2f6275a6a01e794d8d83a4488aeed923b8700a",
+      "uid": "92a6d463fe4e5f9ff58c207bd024c200",
+      "username": "chulu"
+    },
+    "merkle_root": {
+      "ctime": 1559897317,
+      "hash": "88b143ec3b07e93a49475cd67754ca262f076e3a52274a445b3c3c65185b9bc7fbb784fd38e4ef8c8790b7a4a35b6f3599ae661d9c536c3580012cae4d8e8b18",
+      "hash_meta": "7d4bbbea209beb69143356051e7ac782daf2ec018c55f32361d2bb210369adb3",
+      "seqno": 5526198
+    },
+    "service": {
+      "entropy": "fhsoTtqddi2enpKtc7ALamfP",
+      "hostname": "henrikchu.lu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559897343,
+  "expire_in": 504576000,
+  "prev": "9678d4ef612e57a22a784b17c8ea788f4b8e01be162bba2ca97c5f3d3a7a41e6",
+  "seqno": 55,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgho7TVBCUTlQxsRt1aM0vYnWmoB55TY2DpEiK7tkjuHAKp3BheWxvYWTESpcCN8QglnjU72EuV6IqeEsXyOp4j0uOAb4WK7osqXxfPTp6QebEIAUPOZmVH0o795LpuptDS07en80VUA2rdJislW3C+GbIAgHCo3NpZ8RAlRifAZw+e6PTmR/x/DJr1BsGqLbHcCACuOwMjeEcaHAwCJQD8TIpTh459Bte7CDKT+AMd81GKvwaE2BjsWOlBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINc2fMKg3734acAueCagI4bndiBnlwKfmVkhMLc3cMX6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chulu
+
+==================================================================
