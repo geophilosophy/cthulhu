@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Roboto, "Liberation Sans", Arial, sans-serif;
+	font-size: 1.6em;
+	line-height: 140%;
+	color:#000;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+h1 {
+	font-size: 2.8em;
+	color: chocolate;
+  background-color: #000;
+	line-height: 115%;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+hr {   
+  color: #000;
+  border-width: 6px;
+  border-style: dashed;
+}
+
+#content {
+  margin: 5% auto;
+  max-width: 720px;
+  text-align: left;
+}
+
+#title {
+  text-decoration: none;
+}
