@@ -10,10 +10,7 @@
 <div id="content">
   <header>
     <h1 id="henrik-chulu">Henrik Chulu</h1>
-
     <p><em>I write and speak about this future we're living in.</em></p>
-
-    <p>Are you looking for my newsletter/blog <a href="https://asymmetric.henrikchu.lu/">Asymmetric Information</a>?</p>
   </header>
 
   <details>
@@ -23,16 +20,14 @@
 
     <p>In my work, I explore the intersections where artistic creation, technological development and political struggle flow together, often in collaboration with artists, activists and academics.</p>
 
-    <p>I have an academic background in philosophy and geography and had toured Europe as a musician before pursuing a freelance writing and speaking career. As a journalist and guest lecturer, I have focused on tech literacy and the potentials and challenges of organizing in a digital world.</p>
+    <p>I have an academic background in philosophy and geography and had toured Europe as a musician before pursuing a freelance writing and speaking career. As a journalist and guest lecturer, I have focused on infrastructural literacy as well as the potentials and challenges of organizing in a digital world.</p>
 
   </details>
 
   <details>
     <summary>Work</summary>
 
-    <p>I currently hold a position as Technology Advisor at <a href="https://globaltfokus.dk/da/arbejdsomraader/civilsamfundets-raderum/digital-democracy-initivative">Global Focus</a>, the Danish national platform for civil society.
-
-    <p>Before, I was Head of Communications at <a href="https://thelakeradio.com/">The Lake Radio</a>, a Copenhagen-based independent community radio station that mostly plays experimental, avant garde, underground and new music, as well as sound art and a lot of different podcasts. Here, I focused on building up our <a href="https://thelakeradio.com/#newsletter/">newsletter</a> readership by writing about the music in rotation and maintaining a calendar of local music, art and literature events.</p>
+    <p>I fill a part time position as Head of Communications at <a href="https://thelakeradio.com/">The Lake Radio</a>, a Copenhagen-based online community radio station that mostly plays experimental, avant garde, underground and new music, as well as sound art and a lot of different podcasts. Here, I focus on our <a href="https://thelakeradio.com/#newsletter/">newsletter</a> where I mainly write about the music in rotation and maintain a calendar of local music, art and literature events.</p>
 
     <p><a href="https://cybernauterne.dk/">Cybernauterne</a> is a group of specialists offering courses, consulting and keynotes on digital literacy and internet culture. Together with associate professor, PhD <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-management-politics-and-philosophy/staff/sttempp">Stina Teilmann-Lock</a> and artist <a href="https://www.hellocatfood.com/">Antonio Roberts</a>, we designed and facilitated the 2021 online conference Artechlaw - all taking place in the virtual world of Minecraft - about the intersections of visual art, regulation and technology. In 2019, we collaborated with Arken Museum of Modern Art on a series of <a href="https://www.arken.dk/arken-sosaetter-projekt-om-manipulation-og-propaganda-en-digital-tidsalder/">workshops about manipulation and propaganda</a> reaching 300+ students aged 14-15.</p>      
 
@@ -52,7 +47,7 @@
 
     <p>And another series of <a href="https://www.datocms-assets.com/40416/1622128770-green-impact-technologies-digital-magazine.pdf">magazine articles</a> for Digital Hub Denmark and the think tank Mandag Morgen on emerging technologies in green transition.</p>
 
-    <p>The data cooperative polypoly contracted me to write a <a href="https://web.archive.org/web/20220930124048/https://polypoly.net/en/blog/data-privacy-is-not-a-technical-problem/">profile of their founder</a> as well as pieces on the <a href="https://web.archive.org/web/20221004191130/https://polypoly.net/en/blog/personal-data-is-radioactive-waste/">security</a> and <a href="https://web.archive.org/web/20221004191907/https://polypoly.net/en/blog/smart-storage-green-data/">environmental aspects</a> of their technologies.
+    <p>The data cooperative polypoly contracted me to write a <a href="https://polypoly.net/en/blog/data-privacy-is-not-a-technical-problem">profile of their founder</a> as well as pieces on the <a href="https://polypoly.net/en/blog/personal-data-is-radioactive-waste">security</a> and <a href="https://polypoly.net/en/blog/smart-storage-green-data">environmental aspects</a> of their technologies.
 
 	<p>I wrote the <a href="https://www.djoef.dk/-/media/documents/djoef/t/techdk/techdk_rapport_1_%C3%B8konomi_a4_0519.ashx">initial report</a> for Djøf's TechDK commission on technology and the economy.</p>
 
@@ -137,10 +132,12 @@
 
     <ul>
 <!--  <li>Patreon: <a href="https://patreon.com/chulu">chulu</a></li> -->
-      <li>Bluesky: <a href="https://henrikchulu.bsky.social">@henrikchulu.bsky.social</a></li>
-      <li>Mastodon: <a href="https://mastodon.social/@chulu">@chulu</a></li>
+<!--  <li>Twitter: <a href="https://twitter.com/chulu">@chulu</a></li> -->
       <li>LinkedIn: <a href="https://www.linkedin.com/in/chulu">Henrik Chulu</a></li>
       <li>Medium: <a href="https://medium.com/@chulu">@chulu</a></li>
+      <li>Instagram: <a href="https://instagram.com/henrikchulu/">henrikchulu</a></li>
+      <li>Facebook: <a href="https://facebook.com/chulu/">chulu</a></li>
+<!--  <li>Tumblr: <a href="https://henrikchulu.tumblr.com/">henrikchulu</a></li> -->
     </ul>
   </details>
 
@@ -148,34 +145,34 @@
     <summary>Press</summary>
 
     <ul>
-      <li>August 30, 2022. Revolutionen: <a href="https://web.archive.org/web/20230921210221/https://24syv.dk/episode/solar-punk-kommunisme">Solar Punk Kommunisme</a></li>
-      <li>August 30, 2022. Revolutionen: <a href="https://web.archive.org/web/20240302101158/https://24syv.dk/episode/hvem-arbejder-i-bagved-internettet">Hvem arbejder i bagved internettet?</a></li>
-      <li>December 6, 2022. Vi Er Data: <a href="https://web.archive.org/web/20231210043748/https://24syv.dk/episode/29-algoritmer-der-elsker-det-ekstreme">Algoritmer, der elsker det ekstreme</a></li>
+      <li>August 30, 2022. Revolutionen: <a href="https://24syv.dk/episode/solar-punk-kommunisme">Solar Punk Kommunisme</a></li>
+      <li>August 30, 2022. Revolutionen: <a href="https://24syv.dk/episode/hvem-arbejder-i-bagved-internettet">Hvem arbejder i bagved internettet?</a></li>
+      <li>December 6, 2022. Vi Er Data: <a href="https://24syv.dk/episode/29-algoritmer-der-elsker-det-ekstreme">Algoritmer, der elsker det ekstreme</a></li>
       <li>April 2, 2021. Politiken: <a href="https://politiken.dk/live/art8158907/Algoritmer-i-vild-v%C3%A6kst.-Hvem-beskytter-os-indtil-politikerne-begynder-at-regulere-den-nye-virkelighed">Algoritmer i vild vækst. Hvem beskytter os, indtil politikerne begynder at regulere den nye virkelighed?</a></li>
       <li>February 09, 2021. Podcast NU: <a href="https://www.buzzsprout.com/1641313/7495540-afsnit-2-hvad-the-wire-kan-laere-os-om-vores-forhold-til-den-digitale-verden-med-henrik-chulu">Hvad The Wire kan lære os om vores forhold til den digitale verden</a></li>
       <li>January 31, 2021. DR2 Deadline: <a href="https://www.dr.dk/drtv/episode/deadline_234693">GameStop - aktivister ryster aktiemarkedet</a></li>
-      <li>June 13, 2020. Vi Er Data: <a href="https://web.archive.org/web/20201026042704/https://radioloud.dk/podcast/din-computer-er-racistisk/">Din computer er racistisk</a></li>
-      <li>October 22, 2019. AK 24syv: <a href="https://web.archive.org/web/20191102194114/https://www.24syv.dk/programmer/ak-24syv/56997238/er-metoo-en-terrorbevaegelse-og">Big Brother Award</a></li>
-      <li>September 27, 2019. Elektronista: <a href="https://web.archive.org/web/20191102190935/https://www.24syv.dk/programmer/elektronista/56142588/363-brave-new-world-moder-1984-og">Brave new world møder 1984 - og 2020</a></li>
+      <li>June 13, 2020. Vi Er Data: <a href="https://radioloud.dk/podcast/din-computer-er-racistisk/">Din computer er racistisk</a></li>
+      <li>October 22, 2019. AK 24syv: <a href="https://www.24syv.dk/programmer/ak-24syv/56997238/er-metoo-en-terrorbevaegelse-og?start=3285">Big Brother Award</a></li>
+      <li>September 27, 2019. Elektronista: <a href="https://www.24syv.dk/programmer/elektronista/56142588/363-brave-new-world-moder-1984-og">Brave new world møder 1984 - og 2020</a></li>
       <li>September 21, 2019. Orientering på P1: <a href="https://www.dr.dk/radio/p1/orientering/orientering-weekend-2019-09-21">Hongkongs demokratibevægelse med kontroversiel maskot</a></li>
-      <li>August 5, 2019. AK 24syv: <a href="https://web.archive.org/web/20191102200521/https://www.24syv.dk/programmer/ak-24syv/54486830/8chan-og-slidt-musik">8chan og slidt musik</a></li>
+      <li>August 5, 2019. AK 24syv: <a href="https://www.24syv.dk/programmer/ak-24syv/54486830/8chan-og-slidt-musik">8chan og slidt musik</a></li>
       <li>February 5, 2019. P1 Digitalt: <a href="https://www.dr.dk/radio/p1/digitalt/digitalt-76">Fra sølvpapirshat til frihedskæmper</a></li>
       <li>October 29, 2018. Journalisten: <a href="https://journalisten.no/friedrich-lindenberg-henrik-chulu-sikkerhet/slik-beskytter-du-deg-digitalt/338706">Slik beskytter du deg digitalt</a></li>
       <li>October 4, 2018. Kulturen på P1: <a href="https://www.dr.dk/radio/p1/kulturen-pa-p1/kulturen-pa-p1-2018-09-10">Share With Care</a></li>
       <li>June 7, 2018. DR P1 Digitalt: <a href="https://www.dr.dk/radio/p1/digitalt/digitalt-43">Internettets Grundlov</a></li>
       <li>April 11, 2018. Vice Danmark: <a href="https://www.vice.com/da/article/mbx5vb/en-dansk-forsker-fortaeller-hvad-facebook-bruger-dine-private-beskeder-til">En dansk forsker fortæller, hvad Facebook bruger dine private beskeder til</a></li>
-      <li>April 8, 2018. Pakzads Polemik på Radio24syv: <a href="https://web.archive.org/web/20180625080927/https://www.radio24syv.dk/programmer/pakzads-polemik/27038326/du-er-produktet">Du er produktet!</a></li>
+      <li>April 8, 2018. Pakzads Polemik på Radio24syv: <a href="https://www.radio24syv.dk/programmer/pakzads-polemik/27038326/du-er-produktet">Du er produktet!</a></li>
       <li>March 16, 2018. DR Viden: <a href="https://www.dr.dk/nyheder/viden/teknologi/politiet-udruller-nyt-it-system-siger-nej-til-kunstig-intelligens">Politiet udruller nyt it-system: siger nej til kunstig intelligens</a></li>
       <li>March 15, 2018. DR P1 Digitalt: <a href="https://www.dr.dk/radio/p1/digitalt/digitalt-31">Pre Crime</a></li>
       <li>March 15, 2018. P1 Morgen: <a href="https://www.dr.dk/radio/p1/p1-morgen/p1-morgen-2018-03-15#!00:06:52">Politiets digitale redskaber</a></li>
       <li>September 15, 2017. Dagbladet Information: <a href="https://www.information.dk/indland/2017/09/kan-goere-bremse-unges-graensesoegende-adfaerd-online">Hvad kan man gøre for at bremse unges grænsesøgende adfærd online?</a></li>
-      <li>July 12, 2017. Datolinjen på Radio24syv: <a href="https://web.archive.org/web/20191102213011/https://www.24syv.dk/programmer/datolinjen/18178698/stor-online-protest-flygtninge-og-migranter-pa">Stor online protest, Flygtninge og migranter på havet og Hellige køer må godt slagtes</a></li>
+      <li>July 12, 2017. Datolinjen på Radio24syv: <a href="https://www.radio24syv.dk/programmer/datolinjen/18178698/stor-online-protest-flygtninge-og-migranter-pa">Stor online protest, Flygtninge og migranter på havet og Hellige køer må godt slagtes</a></li>
       <li>June 13, 2017. AK 24syv på Radio24syv: <a href="https://www.radio24syv.dk/programmer/ak-24syv/17679778/alt-det-du-ikke-ma-pa-facebook-2">Alt det, du (ikke) må på Facebook</a></li>
       <li>January 14, 2017. The Voice of America: <a href="https://www.voanews.com/a/glass-room-exhibit-privacy-in-digital-age/3676113.html">‘Glass Room’ Exhibit Asks, What Is Privacy in a Digital Age?</a></li>
       <li>December 28, 2016. Benjamen Walker's Theory of Everything Podcast: <a href="https://toe.prx.org/2016/12/the-fairest-of-them-all/">The fairest of them all?</a></li>
       <li>December 12, 2016. Gothamist: <a href="https://web.archive.org/web/20161214122853/http://gothamist.com/2016/12/12/the_glass_room_nyc.php#photo-1">'The Glass Room' In SoHo Will Make You Want To Burn Your iPhone</a></li>
       <li>February 15, 2016. Version2: <a href="https://www.version2.dk/artikel/lektor-i-kriminologi-big-data-samfundet-er-gaaet-over-gevind-og-er-helt-uigennemtaenkt">Lektor i kriminologi: »Big data-samfundet er gået over gevind og er helt uigennemtænkt«</a></li>
-      <li>August 21, 2015. Harddisken: <a href="https://web.archive.org/web/20151017103811/http://www.dr.dk/p1/harddisken/harddisken-2015-08-21">Nørder hjælper verden</a></li>
+      <li>August 21, 2015. Harddisken: <a href="https://www.dr.dk/p1/harddisken/harddisken-2015-08-21">Nørder hjælper verden</a></li>
       <li>July 24, 2015. P1 Debat: <a href="https://www.dr.dk/p1/p1-debat/p1-debat-2015-07-24">Har overvågning sat en stopper for privatlivets fred?</a></li>
       <li>June 26, 2015. P1 Debat: <a href="https://www.dr.dk/p1/p1-debat/p1-debat-2015-06-26">Er trangen til overvågning gået amok?</a></li>
       <li>May 9, 2015. DR2 Tema: <a href="https://www.dr.dk/tv/se/dr2-tema/dr2-tema-du-bliver-overvaget-2">Du bliver overvåget!</a></li>
